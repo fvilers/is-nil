@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/is-nil",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript type guard that validates if the given value is nil",
   "type": "module",
   "main": "dist/is-nil.js",
