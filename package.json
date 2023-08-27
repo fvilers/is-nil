@@ -1,0 +1,15 @@
+{
+  "name": "@fvilers/is-nil",
+  "version": "0.0.0",
+  "description": "A TypeScript type guard that validates if the given value is nil",
+  "keywords": [
+    "typescript",
+    "typescript-library"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/is-nil/issues"
+  },
+  "homepage": "https://github.com/fvilers/is-nil#readme"
+}
