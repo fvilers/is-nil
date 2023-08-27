@@ -2,6 +2,12 @@
   "name": "@fvilers/is-nil",
   "version": "0.0.0",
   "description": "A TypeScript type guard that validates if the given value is nil",
+  "type": "module",
+  "main": "dist/is-nil.js",
+  "types": "dist/is-nil.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "typescript",
     "typescript-library"
@@ -11,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/is-nil/issues"
   },
-  "homepage": "https://github.com/fvilers/is-nil#readme"
+  "homepage": "https://github.com/fvilers/is-nil#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
